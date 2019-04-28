@@ -1,4 +1,6 @@
+
 <?php
+
 include('Salary.php');
 echo "Enter Name Of Month  or in word   :  ";
 $num = trim(fgets(STDIN));
